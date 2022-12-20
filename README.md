@@ -6,6 +6,7 @@ This test file includes several test cases for Twitter api. We can get the follo
 
 ![671243d92545f2d110f85d2ca466641](https://user-images.githubusercontent.com/113282545/208778104-f750a142-9a68-41fe-8df3-87a5c93f2de7.png)
 botometer library provides api that gives the probability of a Twitter account being a bot. The api can check on a single account or a batch of accounts with name or id. The cap value in the result is the conditional probability that accounts with a score equal to or greater than this are automated.
+
 ![dd809481b0c20605cc876c62de519f8](https://user-images.githubusercontent.com/113282545/208778756-f73af910-3f62-45db-95bd-7b29d07f5f44.png)
 
 
