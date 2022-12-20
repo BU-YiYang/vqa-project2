@@ -3,8 +3,8 @@
 This test file includes several test cases for Twitter api. We can get the followers of a user through API.
 
 
+![671243d92545f2d110f85d2ca466641](https://user-images.githubusercontent.com/113282545/208778104-f750a142-9a68-41fe-8df3-87a5c93f2de7.png)
 
-![671243d92545f2d110f85d2ca466641](https://user-images.githubusercontent.com/113282545/208778035-f264423e-1253-4e0b-8f5f-a485160b296b.png
 botometer library provides api that gives the probability of a Twitter account being a bot. The api can check on a single account or a batch of accounts with name or id. The cap value in the result is the conditional probability that accounts with a score equal to or greater than this are automated.
 
 
